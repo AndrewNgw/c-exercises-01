@@ -29,8 +29,7 @@ Pseudocode for finding primes:
             for i = 2 until the square root of n 
                 if n % i == 0 
                     the number is divisible by i 
-                otherwise 
-                    n is prime
+            otherwise n is prime
     ```
 
 1. Change the program so that a new prime is displayed only when a button is pressed.
